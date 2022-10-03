@@ -1,0 +1,11 @@
+**/.DS_Store
+.idea/
+
+alerts_test.ipynb
+alerts_ml.py
+bot_test.py
+dag.ipynb
+dag_new.ipynb
+info_for_bot.ipynb
+new.ipynb
+telegram_report_test.py
